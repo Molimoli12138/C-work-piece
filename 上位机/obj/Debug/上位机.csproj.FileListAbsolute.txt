@@ -1,0 +1,15 @@
+C:\Users\卡夫卡\Desktop\C#工程\上位机\bin\Debug\上位机.exe.config
+C:\Users\卡夫卡\Desktop\C#工程\上位机\bin\Debug\上位机.exe
+C:\Users\卡夫卡\Desktop\C#工程\上位机\bin\Debug\上位机.pdb
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\上位机.csproj.AssemblyReference.cache
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\MainWindow.g.cs
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\App.g.cs
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\上位机_MarkupCompile.cache
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\上位机_MarkupCompile.lref
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\MainWindow.baml
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\上位机.g.resources
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\上位机.Properties.Resources.resources
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\上位机.csproj.GenerateResource.cache
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\上位机.csproj.CoreCompileInputs.cache
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\上位机.exe
+C:\Users\卡夫卡\Desktop\C#工程\上位机\obj\Debug\上位机.pdb
